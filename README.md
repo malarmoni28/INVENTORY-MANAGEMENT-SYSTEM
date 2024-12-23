@@ -1,4 +1,12 @@
 
+**mMONISHA R**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**: CT08DS626 
+**Domain**: PYTHON PROGRAMMING  
+**Duration**: NOV 30th 2024 to DEC 30th, 2024
+
+
+
 ---
 
 # Inventory Management System
